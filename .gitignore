@@ -1,0 +1,3 @@
+*.db
+bundle.js.*
+node_modules
